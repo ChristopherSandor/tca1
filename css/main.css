@@ -1,0 +1,86 @@
+.card-img{
+    background-color: #d67eea;
+}
+
+.card{
+    border-width: 3px;
+    background-color: #f8f8ff;
+    border-color: #f8f8ff;
+
+}
+.btn-purple{
+    background-color: #9601fc; 
+}
+.btn-purple:hover{
+    background-color: #3c0067;
+}
+.btn{
+    border: none;
+}
+.card-img-flag{
+    width: 40px;
+    float: right;
+    border: 2px solid black;
+}
+.card-title{
+color: black;
+font-family: acier-bat-solid, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+.card-text{
+    font-family: 'Jost', sans-serif;
+    color: black;
+}
+.goodStat{
+    color: green;
+}
+.midStat{
+    color: yellow;
+}
+.badStat{
+    color: red;
+}
+.mainscreen{
+    justify-content: center;
+}
+.mainIMG{
+    height: 25vh;
+    transition: all 0.5s ease-in-out;
+}
+.mainIMG:hover{
+    height: 27vh;
+}
+body{
+    background-color: #140022;
+}
+.fillerOne{
+    height: 10vh;
+}
+.header{
+    font-family: acier-bat-noir, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 2vw;
+color: #f8f8ff!important;
+}
+.navbar{
+    background-color: #3c0067;
+    justify-content: center;
+}
+
+.card{
+    width: 18rem;
+    transition: all 0.25s ease-in-out;
+}
+.card:hover{
+    width: 20rem!important;
+}
+.wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.specialRow{
+    justify-content: center;
+}
